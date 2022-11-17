@@ -1,22 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm **Qingyang**, 
 
-<!--
-**liqingy5/liqingy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In case you want reach me
+<br>
+<a href="https://www.linkedin.com/in/lqy/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
 
-Here are some ideas to get you started:
+<!-- ![Qingyang's github stats](https://github-readme-stats.vercel.app/api?username=liqingy5&show_icons=true&theme=tokyonight&hide=stars,issues)
+ -->
+<img src="https://github-readme-stats.vercel.app/api?username=liqingy5&show_icons=true&theme=tokyonight">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liqingy5)
 
-### Portfolio
-
-> *pending...*
-
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+### Views:<br>
+<img src="https://profile-counter.glitch.me/liqingy5/count.svg" />
