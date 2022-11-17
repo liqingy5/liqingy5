@@ -1,10 +1,10 @@
-### Hi there 👋, I'm **Qingyang**, 
+## Hi there 👋, I'm **Qingyang**, 
 
-In case you want reach me
-<br>
+### In case you want reach me
 <a href="https://www.linkedin.com/in/lqy/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br>
 <br>
 
 <!-- ![Qingyang's github stats](https://github-readme-stats.vercel.app/api?username=liqingy5&show_icons=true&theme=tokyonight&hide=stars,issues)
