@@ -2,8 +2,9 @@
 
 
 ## Hi there 👋, I'm **Qingyang**, 
-<img src="https://komarev.com/ghpvc/?username=liqingy5&style=flat-square&color=blue" alt=""/>
-
+<!-- profile views -->
+<!-- <img src="https://komarev.com/ghpvc/?username=liqingy5&style=flat-square&color=blue" alt=""/>
+ -->
 
   
 ### :telescope: In case you want to reach me
