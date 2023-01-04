@@ -32,10 +32,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=liqingy5&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liqingy5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
