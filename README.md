@@ -19,7 +19,7 @@
 | ------------- | ------------- |      
 
   
-[![Qingyang's wakatime stats](https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/wakatime?username=@liqingy5)](https://github.com/liqingy5/github-readme-stats)   
+[![Qingyang's wakatime stats](https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/wakatime?username=liqingy5)](https://github.com/liqingy5/github-readme-stats)   
                                                                                                                                                  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
