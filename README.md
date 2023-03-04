@@ -9,11 +9,14 @@
 
   
 ### :telescope: In case you want to reach me
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/lqy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### :flags: Some Programming Stats
 
 | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api?username=liqingy5&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" alt="Qingyang's github stats" /></a> | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/top-langs/?username=liqingy5&hide_border=true&exclude_repo=Vulkan-simulator-and-trace-runner,CS2210" /></a> |
 | ------------- | ------------- |      
