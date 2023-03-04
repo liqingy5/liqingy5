@@ -20,6 +20,16 @@
 
 ### :computer: Weely development time
 <!--START_SECTION:waka-->
+
+```text
+From: 28 February 2023 - To: 03 March 2023
+
+Total Time: 1 min
+
+JavaScript   0 secs          ███████████████░░░░░░░░░░   59.35 %
+C++          0 secs          ██████████░░░░░░░░░░░░░░░   40.65 %
+```
+
 <!--END_SECTION:waka-->                                                                                                                                                 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
