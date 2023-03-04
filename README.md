@@ -18,20 +18,8 @@
 | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api?username=liqingy5&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" alt="Qingyang's github stats" /></a> | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/top-langs/?username=liqingy5&hide_border=true&exclude_repo=Vulkan-simulator-and-trace-runner,CS2210" /></a> |
 | ------------- | ------------- |      
 
-  
-[![Qingyang's wakatime stats](https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/wakatime?username=liqingy5&Cache-Control=no-cache)](https://github.com/liqingy5/github-readme-stats)   
-
+### :computer: Weely development time
 <!--START_SECTION:waka-->
-
-```text
-From: 28 February 2023 - To: 03 March 2023
-
-Total Time: 1 min
-
-JavaScript   0 secs          >>>>>>>>>>>>>>>----------   59.35 %
-C++          0 secs          >>>>>>>>>>---------------   40.65 %
-```
-
 <!--END_SECTION:waka-->                                                                                                                                                 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
