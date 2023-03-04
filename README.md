@@ -25,12 +25,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 03 March 2023
+From: 28 February 2023 - To: 04 March 2023
 
-Total Time: 1 min
+Total Time: 2 hrs 56 mins
 
-JavaScript   0 secs          ███████████████░░░░░░░░░░   59.35 %
-C++          0 secs          ██████████░░░░░░░░░░░░░░░   40.65 %
+JavaScript   2 hrs 39 mins   ██████████████████████▓░░   90.52 %
+Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->                                                                                                                                                 
