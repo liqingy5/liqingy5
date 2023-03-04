@@ -22,6 +22,16 @@
 [![Qingyang's wakatime stats](https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/wakatime?username=liqingy5&Cache-Control=no-cache)](https://github.com/liqingy5/github-readme-stats)   
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 February 2023 - To: 03 March 2023
+
+Total Time: 1 min
+
+JavaScript   0 secs          >>>>>>>>>>>>>>>----------   59.35 %
+C++          0 secs          >>>>>>>>>>---------------   40.65 %
+```
+
 <!--END_SECTION:waka-->                                                                                                                                                 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
