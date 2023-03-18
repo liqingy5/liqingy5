@@ -30,16 +30,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 16 March 2023
+From: 28 February 2023 - To: 17 March 2023
 
-Total Time: 25 hrs 3 mins
+Total Time: 26 hrs 37 mins
 
-JavaScript   24 hrs 5 mins   ████████████████████████░   96.09 %
-C++          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-SSH Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   24 hrs 18 mins  ██████████████████████▓░░   91.25 %
+C++          1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+SSH Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
