@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 29 March 2023
+From: 28 February 2023 - To: 30 March 2023
 
 Total Time: 30 hrs 51 mins
 
-JavaScript        27 hrs          ██████████████████████░░░   87.56 %
-C++               1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+JavaScript        27 hrs          ██████████████████████░░░   87.53 %
+C++               1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
 Protocol Buffer   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 Bash              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 Markdown          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
