@@ -30,16 +30,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 01 April 2023
+From: 28 February 2023 - To: 02 April 2023
 
-Total Time: 30 hrs 53 mins
+Total Time: 34 hrs 19 mins
 
-JavaScript        27 hrs          ██████████████████████░░░   87.45 %
-C++               1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Protocol Buffer   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Bash              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Markdown          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-JSON              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JavaScript        27 hrs          ███████████████████▓░░░░░   78.71 %
+Python            3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+C++               1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Protocol Buffer   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Bash              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Markdown          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
