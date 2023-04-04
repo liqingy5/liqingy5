@@ -22,7 +22,7 @@
 
 ### :flags: Some Programming Stats
 
-| <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api?username=liqingy5&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" alt="Qingyang's github stats" /></a> | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/top-langs/?username=liqingy5&hide_border=true&exclude_repo=Vulkan-simulator-and-trace-runner,CS2210" /></a> |
+| <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api?username=liqingy5&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" alt="Qingyang's github stats" /></a> | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/top-langs/?username=liqingy5&hide_border=true&exclude_repo=Vulkan-simulator-and-trace-runner,CS2210,SelfLearning-15445" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### :computer: Weekly Development Time
