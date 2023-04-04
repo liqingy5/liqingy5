@@ -28,6 +28,20 @@
 ### :computer: Weekly Development Time
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 March 2023 - To: 04 April 2023
+
+Total Time: 8 hrs 4 mins
+
+Python            5 hrs 55 mins   ██████████████████▒░░░░░░   73.31 %
+JavaScript        1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+Protocol Buffer   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Bash              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Git Config        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Languages and Tools :
