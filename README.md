@@ -25,23 +25,9 @@
 | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api?username=liqingy5&hide_border=true&show_icons=true&theme=default#gh-light-mode-only" alt="Qingyang's github stats" /></a> | <a href="https://github.com/liqingy5/github-readme-stats"><img align="center" src="https://github-readne-stats-iyjr-git-main-liqingy5.vercel.app/api/top-langs/?username=liqingy5&hide_border=true&exclude_repo=Vulkan-simulator-and-trace-runner,CS2210" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### :computer: Some Development Time
+### :computer: Weekly Development Time
 
 <!--START_SECTION:waka-->
-
-```text
-From: 28 February 2023 - To: 03 April 2023
-
-Total Time: 38 hrs 53 mins
-
-JavaScript        28 hrs 43 mins  ██████████████████▒░░░░░░   73.86 %
-Python            6 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-C++               1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Protocol Buffer   34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Bash              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Markdown          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-```
-
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Languages and Tools :
