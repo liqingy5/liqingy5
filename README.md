@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
 Total Time: 28 hrs 15 mins
 
-Python            25 hrs 12 mins  ██████████████████████▒░░   89.21 %
+Python            25 hrs 13 mins  ██████████████████████▒░░   89.21 %
 JSON              1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 Protocol Buffer   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 Markdown          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
