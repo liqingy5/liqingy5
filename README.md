@@ -30,16 +30,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Total Time: 25 hrs 31 mins
+Total Time: 15 hrs 23 mins
 
-Python            20 hrs 5 mins   ███████████████████▓░░░░░   78.73 %
-JSON              2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Markdown          1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Protocol Buffer   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Docker            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python            12 hrs 2 mins   ███████████████████▓░░░░░   78.24 %
+JSON              1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Markdown          1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Protocol Buffer   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
