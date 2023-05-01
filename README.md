@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2023 - To: 29 April 2023
+From: 23 April 2023 - To: 30 April 2023
 
-Total Time: 9 hrs 1 min
+Total Time: 5 hrs 12 mins
 
-YAML                       1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Bash                       1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.88 %
-Other                      1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+YAML         1 hr 17 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
+Text         1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
+Other        1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
 ```
 
 <!--END_SECTION:waka-->
