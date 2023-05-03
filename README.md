@@ -30,13 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 01 May 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Total Time: 21 mins
+Total Time: 6 mins
 
-Text       9 mins          ███████████▒░░░░░░░░░░░░░   45.08 %
-Bash       4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-Other      3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Bash       2 mins          ████████▓░░░░░░░░░░░░░░░░   34.74 %
+Markdown   1 min           ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+Text       1 min           ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Other      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 <!--END_SECTION:waka-->
